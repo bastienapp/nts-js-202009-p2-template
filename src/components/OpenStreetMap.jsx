@@ -4,7 +4,7 @@ class OpenStreeMap extends Component {
 
   render() {
     return <div className="OpenStreeMap">
-      Voir la carte ici !
+      Your map here!
     </div>
   }
 }

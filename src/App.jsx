@@ -1,11 +1,8 @@
 import React from 'react';
-import './App.css'
-import OpenStreeMap from './components/OpenStreetMap';
+import './App.css';
 
 function App() {
-  return <div className="App">
-    <OpenStreeMap />
-  </div>;
+  return <div className="App" />;
 }
 
 export default App;
